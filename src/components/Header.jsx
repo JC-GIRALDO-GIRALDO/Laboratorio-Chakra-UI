@@ -31,7 +31,7 @@ function Header() {
             to="/VerVideosPage"
             position="absolute"
             top="70%"
-            left="60%" // Aumenta este valor para separar más los enlaces
+            left="60%"
             transform="translate(-50%, -50%)"
             color="white"
             fontSize="30px"
@@ -57,7 +57,7 @@ function Header() {
             to="/"
             position="absolute"
             top="70%"
-            left="40%" // Aumenta este valor para separar más los enlaces
+            left="40%"
             transform="translate(-50%, -50%)"
             color="white"
             fontSize="30px"
